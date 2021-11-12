@@ -21,6 +21,6 @@
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-</div><br/>
+</div>
 
-### Passionate about technology, education and people's lives through programming
+#### Passionate about technology, education and people's lives through programming
