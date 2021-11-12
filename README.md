@@ -1,4 +1,4 @@
-### Hi there! I'm Daniel 👋
+# Hi there! I'm Daniel 👋
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-benedito-b99546213)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](api.whatsapp.com/send?1=pt_BR&phone=5519981080135)
