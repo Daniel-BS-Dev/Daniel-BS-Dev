@@ -1,9 +1,7 @@
 # Hi there! I'm Daniel 👋
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-benedito-b99546213)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](api.whatsapp.com/send?1=pt_BR&phone=5519981080135)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daniel.benrdito.9400)
-[![Whatsapp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:danielbenedito263@gmail.com")
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-BS-Dev&show_icons=true&theme=dracula)
 
