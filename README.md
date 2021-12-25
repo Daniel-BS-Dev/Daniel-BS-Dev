@@ -3,6 +3,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-benedito-b99546213)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daniel.benrdito.9400)
 
+
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-BS-Dev&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-BS-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
